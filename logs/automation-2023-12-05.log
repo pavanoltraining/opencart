@@ -1,0 +1,54 @@
+12:07:57.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:07:57.465 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:08:00.943 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:08:00.997 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:08:01.001 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:08:01.001 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:08:03.180 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:08:03.186 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:08:03.425 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:08:03.820 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:08:03.826 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:08:04.584 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:08:04.807 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:08:06.939 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:08:08.181 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:08:10.364 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:08:12.370 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+12:18:37.859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+12:18:38.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+12:18:42.568 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:18:42.569 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:18:42.810 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:18:43.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:18:43.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:18:47.052 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:18:47.109 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:18:47.112 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:18:47.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:18:49.485 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:18:49.488 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:18:49.716 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:18:50.252 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:18:50.265 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:18:51.000 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:18:51.195 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:47:34.177 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+12:47:34.872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+12:47:39.447 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:47:39.447 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:47:39.689 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:47:40.454 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+12:47:40.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:47:44.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+12:47:44.310 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:47:44.326 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:47:44.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:47:46.936 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:47:46.936 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:47:47.180 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:47:47.756 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..

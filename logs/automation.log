@@ -1,0 +1,27 @@
+07:06:33.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:06:34.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+07:06:38.223 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+07:06:39.958 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+07:07:25.256 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:07:40.420 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml"
+07:07:40.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\15-Sept-2023batch\opencart\mastersuite.xml
+
+07:07:44.944 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+07:07:44.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+07:07:45.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+07:07:45.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+07:07:45.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+07:07:49.762 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+07:07:49.813 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+07:07:49.813 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+07:07:49.813 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+07:07:52.496 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+07:07:52.499 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+07:07:52.657 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+07:07:53.188 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+07:07:53.195 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+07:07:54.131 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+07:07:54.232 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
